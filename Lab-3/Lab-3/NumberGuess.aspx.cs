@@ -13,5 +13,15 @@ namespace Lab_3
         {
 
         }
+
+        protected void btn_submitGuess_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void btn_reset_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
